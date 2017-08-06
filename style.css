@@ -52,7 +52,7 @@ hr{
 
 /*page 2*/
 #pageTwo{
-	height: 700px;
+	height: 800px;
 	background-size: cover;
 	background-image: url("https://images.unsplash.com/photo-1500352288169-55a8fb9bdbeb?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=hugo-villegas-314118.jpg&s=8aabe61ab77a718a0ab97c103b286e7b");
 }
