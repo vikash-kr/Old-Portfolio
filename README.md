@@ -7,13 +7,12 @@ It uses a number of open source projects to work properly:
 * [jQuery] - javascript made easy
 * [fontawasome] - for various icon
 * Also useses 
-
 ```sh
 HTML
 CSS
 Javascript
 ```
 
-[Twitter Bootstrap]: <https://github.com/twbs/bootstrap>
+[Bootstrap]: <https://github.com/twbs/bootstrap>
 [jQuery]: <http://jquery.com>
-[fontawasom]: <https://github.com/FortAwesome/Font-Awesome/>
+[fontawasome]: <https://github.com/FortAwesome/Font-Awesome/>
